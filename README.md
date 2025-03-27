@@ -1,0 +1,2 @@
+# Optimization-of-GaN-HEMTs-Using-Bayesian-Algorithms-and-GPR-Model
+This repository provides a framework for optimizing GaN HEMTs using Bayesian algorithms and GPR models. It uses Latin Hypercube Sampling (LHS) for initial data generation, trains a GPR model for accurate performance prediction, and applies Bayesian optimization to iteratively refine parameters while minimizing computational costs.
